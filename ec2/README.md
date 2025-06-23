@@ -1,7 +1,7 @@
 ### EC2-Module
 
 #### Inputs
-* ami (Optional): AMI ID is optional. Default ami is ami-03265a0778a880afb which is centos8 from Join DevOps.
+* ami (Optional): AMI ID is optional. Default ami is "ami-09c813fb71547fc4f" which is centos8 from Join DevOps.
 * instance_type(Optional): default value is t2.micro
 * tags (Optional): default value is empty.
 
